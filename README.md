@@ -67,9 +67,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PilSenior/PilSenior/output/snake.svg" alt="Snake animation" />
-
 ###
