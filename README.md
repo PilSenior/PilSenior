@@ -1,70 +1,29 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Emirhan Tekdemir
+=========================================================================================================================================
 
-<h1 align="left">Hi!! 👋​👋​👋​</h1>
+Full Stack Developer and Designer
+---------------------------------
 
-###
+For the past four years, I have been on a journey to improve myself. I started with front -end, learning the visible part of the process. After that, I worked on the backend, gaining experience behind the scenes. Along with this, I improved my skills in database construction, data analysis, and, simply put, data vulnerabilities and closing vulnerabilities. In the last year of this process, I have been receiving training on embedded software and technologies at the 42Turkey training academy. Alongside this training, I am also studying at Istanbul University. I am currently working towards an associate degree in Web Design and Coding at Istanbul University.
 
-<p align="center">Hello welcome my page. Everything all about me is here, if you want, Let me explain briefly, I'm student of the 42Turkıye my first year is the 2024 before ı work on the frontend but now ı will learners about the algorithms and backend programming.</p>
+Translated with DeepL.com (free version)
 
-###
+* 🌍  I'm based in TURKIYE
+* ✉️  You can contact me at [tekdemirhayriemirhan@gmail.com](mailto:tekdemirhayriemirhan@gmail.com)
+* 🧠  I'm currently learning a new fremawork and tech
+* 💬  Ask me about With great power comes great electricity bill
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PilSenior&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="126" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PilSenior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gotham&hide_border=true&order=2" height="124" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PilSenior&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
+</p>
 
-###
+### Socials
 
-<h2 align="center">Social Media</h2>
+<p align="left"> <a href="https://www.github.com/PilSenior" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/Hayri-Emirhan-Tekdemir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/PilSenior" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/PilSenior?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
+### Badges
 
-###
+<b>My GitHub Stats</b>
 
-<div align="center">
-  <a href="https://www.instagram.com/emirhy0/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="69" height="43" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/tekdemirhayriemirhan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="69" height="43" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hayri-emirhan-tekdemir-1766212a2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="69" height="43" alt="linkedin logo"  />
-  </a>
-  <a href="https://profile.intra.42.fr/users/htekdemi" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/2048px-42_Logo.svg.png" alt="42" width="60" height="60" alt="42Ecol Logo" />
-  </a>
-</div>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PilSenior/count.svg?"  />
-</div>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="41" alt="debian logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="41" alt="bash logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="41" alt="c logo"  />
-  <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
-</div>
-
-###
-###
+<a href="http://www.github.com/PilSenior"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PilSenior&stroke=14b8a6&background=312e81&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
