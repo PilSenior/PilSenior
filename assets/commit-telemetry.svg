@@ -5,7 +5,7 @@
 <path d="M28 27H104" stroke="#ff8744" stroke-width="3"/>
 <g font-family="monospace" fill="#dff6fa">
 <text x="28" y="53" font-size="23" font-weight="bold">COMMIT TELEMETRY // PilSenior</text>
-<text x="28" y="74" font-size="12" fill="#19e5d0">LIVE / PUBLIC COMMIT CONTRIBUTIONS  |  2025-11-28 — 2026-11-27</text>
+<text x="28" y="74" font-size="12" fill="#19e5d0">LIVE / PUBLIC COMMIT CONTRIBUTIONS  |  2025-11-29 — 2026-11-28</text>
 <rect x="28" y="88" width="288" height="44" rx="6" fill="#101d2c" stroke="#284755"/>
 <text x="40" y="104" font-size="10" fill="#82adb9">COMMITS</text>
 <text x="40" y="124" font-size="20" fill="#e8faff">6</text>
@@ -23,7 +23,6 @@
 <text x="30" y="240" font-size="10" fill="#82adb9">S</text>
 <text x="30" y="255" font-size="10" fill="#82adb9">S</text>
 <text x="52" y="146" font-size="9" fill="#82adb9">Nov</text>
-<rect x="52" y="214" width="12" height="12" rx="2" fill="#152638"><title>2025-11-28: 0 commits</title></rect>
 <rect x="52" y="229" width="12" height="12" rx="2" fill="#152638"><title>2025-11-29: 0 commits</title></rect>
 <rect x="52" y="244" width="12" height="12" rx="2" fill="#152638"><title>2025-11-30: 0 commits</title></rect>
 <text x="68" y="146" font-size="9" fill="#82adb9">Dec</text>
@@ -400,6 +399,7 @@
 <rect x="884" y="184" width="12" height="12" rx="2" fill="#152638"><title>2026-11-25: 0 commits</title></rect>
 <rect x="884" y="199" width="12" height="12" rx="2" fill="#152638"><title>2026-11-26: 0 commits</title></rect>
 <rect x="884" y="214" width="12" height="12" rx="2" fill="#16535e"><title>2026-11-27: 2 commits</title></rect>
+<rect x="884" y="229" width="12" height="12" rx="2" fill="#152638"><title>2026-11-28: 0 commits</title></rect>
 <rect x="49" y="151" width="20" height="107" rx="3" fill="#19e5d0" fill-opacity=".10" stroke="#19e5d0" stroke-opacity=".7"><animate attributeName="x" values="49;881;49" dur="12s" repeatCount="indefinite"/></rect>
 <path d="M52 263H900" stroke="#284755"/>
 <text x="52" y="278" font-size="10" fill="#82adb9">LOW</text>
